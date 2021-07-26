@@ -1,0 +1,24 @@
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.theme-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.theme-wrapper h1 {
+    font-size: 20px;
+}
+
+.change-color-radio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.change-color-radio input {
+    cursor: pointer;
+}

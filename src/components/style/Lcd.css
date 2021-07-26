@@ -1,0 +1,15 @@
+.display-result {
+    height: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+.display-result h1 {
+    margin-right: 40px;
+}
